@@ -1,3 +1,19 @@
+<?php
+    if($_POST["submit"]) {
+        $recipient="nimishagarwal.1997@gmail.com";
+        $senderName=$_POST["name"];
+        $senderEmail=$_POST["email"];
+        $subject=$_POST["subject"];
+        $message=$_POST["message"];
+    
+        $mailBody="Name: $senderName \n Email: $senderEmail\n\n$message";
+    
+        mail($recipient, $subject, $mailBody, "From: $senderName <$senderEmail>");
+    
+        $thankYou="<p>Thank you! Your message has been sent.</p>";
+    }
+?>
+
 <!doctype html>
 <html class="no-js" lang="">
     <head>
@@ -109,7 +125,7 @@
 						<div class="item active">
 							<img src="img/city.jpg" alt="Sider Big Image">
 							<div class="carousel-caption">
-								<h1 class="wow fadeInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1>
+								<h1 class="wow fadeInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit<?=$thankYou ?></h1>
 								<div class="slider-btn wow fadeIn">
 									<a href="#" class="btn btn-learn">Learn More</a>
 								</div>
@@ -1731,7 +1747,7 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<h4 style="color:aqua;">Please Contact Me For Any Kind Of Information Over a Cup of Tea</strong></h4>
-							<form id="contactform" action="conatct.php" method="post" class="validateform" name="send-contact">
+							<form id="contactform" action="home.php" method="post" class="validateform" name="send-contact">
 								<!-- Input Fields -->
 								<div class="row">
 									<!-- Name Field -->
@@ -1763,6 +1779,17 @@
 									</div>
 								</div>
 							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!-- Thank you after form submissin-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<div class="title">
+							<h3> <span><?=$thankYou ?></span></h3>
 						</div>
 					</div>
 				</div>
