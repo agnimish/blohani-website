@@ -44,7 +44,7 @@
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 								</button>
-								<a href="#home" class="navbar-brand"><img src="img/photo.png" alt="Logo" style="width: 50px; height: 50px; padding-bottom: 10px;"/></a>									
+								<a href="index.php" class="navbar-brand"><img src="img/logo.png" alt="Logo" style="width: 50px; height: 50px; padding-bottom: 10px;"/></a>									
 							</div>
 							
 							<div class="navbar-collapse collapse">
@@ -53,7 +53,7 @@
 									<li><a href="myBlog.html">Blog</a></li>
 								</ul>
 							</div>
-							
+							<a id="back2Top" title="Back to top" href="#">&#10148;</a>
 						</div>
 					</div>
 				</div>
@@ -291,6 +291,27 @@
             e.src='https://www.google-analytics.com/analytics.js';
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
             ga('create','UA-XXXXX-X','auto');ga('send','pageview');
-        </script>
+		</script>
+		
+		<script>
+			/*Scroll to top when arrow up clicked BEGIN*/
+			$(window).scroll(function() {
+				var height = $(window).scrollTop();
+				if (height > 100) {
+					$('#back2Top').fadeIn();
+				} else {
+					$('#back2Top').fadeOut();
+				}
+			});
+			$(document).ready(function() {
+				$("#back2Top").click(function(event) {
+					event.preventDefault();
+					$("html, body").animate({ scrollTop: 0 }, "slow");
+					return false;
+				});
+
+			});
+			/*Scroll to top when arrow up clicked END*/
+		</script>
     </body>
 </html>
