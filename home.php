@@ -41,7 +41,7 @@
         <link rel="stylesheet" href="css/responsive.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 		
-		
+
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -880,20 +880,20 @@
 										<!-- Project Detail -->
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="1"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>	
-
 									</div>
 									
+									<!-- Particular Project Thumbnail -->
 									<div class="thumb">
 										<a href="#">
 											<img src="img/protfolio2.jpg" alt="Feature Image" />
 										</a>
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="2"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -906,7 +906,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="3"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -919,7 +919,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="4"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -932,7 +932,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="5"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -945,7 +945,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="6"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -958,7 +958,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="7"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -971,7 +971,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="8"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -993,7 +993,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="9"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -1006,7 +1006,7 @@
 										</a>
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="10"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -1019,7 +1019,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="11"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -1032,7 +1032,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="12"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -1045,7 +1045,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="13"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -1058,7 +1058,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="14"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -1071,7 +1071,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="15"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -1084,7 +1084,7 @@
 										
 										<div class="thumb-rollover">
 											<div class="project-title">
-												<h4>Project Title</h4>
+												<button id="myBtn" data-bid="16"><h4>Project Title</h4></button>
 												<h5>Category: Web Design</h5>
 											</div>
 										</div>
@@ -1093,6 +1093,79 @@
 								</div>
 							</div>
 						</div>	
+
+						<!-- The Modal -->
+						<div id="myModal" class="modal">
+							<!-- Modal content -->
+							<div class="modal-content" id="1">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project 1</p>
+							</div>
+							<div class="modal-content" id="2">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project 2</p>
+							</div>
+							<div class="modal-content" id="3">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="4">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="5">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="6">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="7">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="8">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="9">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="10">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="11">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="12">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="13">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="14">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="15">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="16">
+								<span class="close">&times;</span>
+								<p>Description of the selected Project</p>
+							</div>
+							<div class="modal-content" id="17">
+								<span class="close">&times;</span>
+								<p>Limulator 4.0 aims at generating airborne LiDAR data as per user-defined flight and scanner parameters. The user can import 3D models in OBJ file format or in the form of meshes, with the basic unit as a triangle or quadrilateral.  The generated ALS data can be saved in ASCII or LAS format. Both systematic and random errors can be induced in trajectory, attitude, and range values, or directly in the ALS data generated. The user can also save the generated flight trajectory. A tool for basic flight planning is available here. This simulator can be an ideal tool for research and education purposes in the field of LiDAR technology.</p>
+							</div>
+						</div>
 
 					</div>
 
@@ -1184,17 +1257,17 @@
 								<p class="lead" style="font-size:30px"><strong>Category</strong></p>
 							</div>
 							<ul class="list-group list-group-flush text-center">
-								<li class="list-group-item"><i class="icon-ok text-success"></i>Description</li>
+								<button id="myBtn" data-bid="17"><li class="list-group-item"><i class="icon-ok text-success"></i>Description</li></button>
 								<li class="list-group-item"><i class="icon-ok text-success"></i>
-									Developer: <a href="https://www.facebook.com/shikhar.dayal.96?jazoest=26510012284484581108758688107829911668566597113521146555731091029948115995212169111856567951119010757101112655865100121841105268881105487104112455695109697797103103841048210077838785981196810990881181027610089897412011381" target="_blank">Shikhar Dayal</a>
+									Developer: <a href="https://www.facebook.com/shikhar.dayal.96?jazoest=26510012284484581108758688107829911668566597113521146555731091029948115995212169111856567951119010757101112655865100121841105268881105487104112455695109697797103103841048210077838785981196810990881181027610089897412011381" target="_blank">
+									Shikhar Dayal</a>
 								</li>
 							</ul>
 							<div class="panel-footer">
-								<a class="btn btn-lg btn-block btn-success" href="#">DOWNLOAD</a>
+								<a class="btn btn-lg btn-block btn-success" href="./assets/Limulator4.zip">DOWNLOAD</a>
 							</div>
 						</div>
 						<!-- /PRICE ITEM -->
-						
 						
 					</div>
 					
@@ -1909,6 +1982,22 @@
 						$(this).empty().html(newStr);
 					}
 				});
+			});
+		</script>
+		
+		<script>
+			$(document).on('click','#myBtn',function(){
+				var myTargetModal = '#' + $(this).data('bid');
+				$('#myModal').hide();
+				$('.modal-content').hide();
+				
+				$('#myModal').fadeIn();
+				$(myTargetModal).fadeIn();
+			});
+
+			$("body").on( "click",".close", function() {
+				$('#myModal').hide();
+				$('.modal-content').hide();
 			});
 		</script>
 		
