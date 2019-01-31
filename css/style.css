@@ -231,13 +231,13 @@ ul.navbar-nav li a{
 }
 
 #features{
-	background: url(../img//bcd.jpg);
+	background: black;
 	background-repeat: no-repeat;
 	background-size: cover;
 	float: left;
 	width: 100%;
 	overflow-y: auto;
-	height: 600px;
+	height: 100%;
 }
 
 .feature-icon i{
@@ -246,12 +246,15 @@ ul.navbar-nav li a{
 }
 
 .feature-text h4{
-	font-size:16px;
-	text-transform:uppercase;
+	color: #00bcd4;
+	font-size: 16px;
+	text-transform: uppercase;
 }
 
 .feature-text p{
+	color: #F7F7F7;
 	margin:5px 0;
+	font-family: sans-serif;
 }
 
 .feature-text a{
@@ -267,7 +270,6 @@ ul.navbar-nav li a{
 }
 
 /*Services*/
-
 
 /*Featured Work*/
 #project {
@@ -472,6 +474,20 @@ ul.navbar-nav li a{
 	color:#00bcd4;
 	font-family: 'Montserrat', sans-serif;
 }
+
+/* The progress container (grey background) */
+.scrolling-container {
+	width: 100%;
+	height: 8px;
+	background: #ccc;
+  }
+  
+  /* The progress bar (scroll indicator) */
+  .scrolling-bar {
+	height: 8px;
+	background: #4caf50;
+	width: 0%;
+  }
 
 /*Blog*/
 
@@ -1078,27 +1094,33 @@ form#commentform textarea {
 
     .panel-heading [data-toggle="collapse"]:after {
         font-family: 'Glyphicons Halflings';
-        content: "\e072"; /* "play" icon */
+        content: "\2212"; /* "plus" icon */
         float: right;
         color: #F58723;
-        font-size: 18px;
+        font-size: 14px;
         line-height: 22px;
         /* rotate "play" icon from > (right arrow) to down arrow */
-        -webkit-transform: rotate(-90deg);
+        /* -webkit-transform: rotate(-90deg);
         -moz-transform: rotate(-90deg);
         -ms-transform: rotate(-90deg);
         -o-transform: rotate(-90deg);
-        transform: rotate(-90deg);
+        transform: rotate(-90deg); */
     }
 
     .panel-heading [data-toggle="collapse"].collapsed:after {
-        /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
-        -webkit-transform: rotate(90deg);
+		/* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+		font-family: 'Glyphicons Halflings';
+        content: "\002b"; /* "plus" icon */
+        float: right;
+        color: #454444;
+        font-size: 14px;
+        line-height: 22px;
+        /* -webkit-transform: rotate(90deg);
         -moz-transform: rotate(90deg);
         -ms-transform: rotate(90deg);
         -o-transform: rotate(90deg);
         transform: rotate(90deg);
-        color: #454444;
+        color: #454444; */
     }
 	
 	h4.panel-title{
@@ -1157,10 +1179,16 @@ form#commentform textarea {
 	border: 1px solid #888;
 	width: 80%; /* Could be more or less, depending on screen size */
   }
+
+  .modal-content p{
+	  font-family: sans-serif;
+	  font-weight: bold;
+	  font-size-adjust: inherit;
+  }
   
   /* The Close Button */
   .close {
-	color: #aaa;
+	color: #333 ;
 	float: right;
 	font-size: 28px;
 	font-weight: bold;

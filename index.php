@@ -78,8 +78,9 @@
 									<li><a href="#project">Projects</a></li>
 									<li><a href="#research">Research</a></li>
 									<li><a href="#features">Awards & Honors</a></li>
-									<li><a href="#testimonials">Testimonials</a></li>
+									<!-- <li><a href="#testimonials">Testimonials</a></li> -->
 									<li><a href="#contact">Contact</a></li>
+									<li><a href="blog.html">Research Blog</a></li>
 									<li><a href="#links">Quick Links</a></li>
 								</ul>
 							</div>
@@ -228,6 +229,7 @@
 						</div>
 
 					</div>
+					<!-- Embedded Resume -->
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h4 class="panel-title">
@@ -455,156 +457,156 @@
 
 							<div class="faqHeader"><h4>Teaching Experience</h4></div>
 							
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-											<strong>National Ilan University, Yilan Taiwan</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapseTwo" class="panel-collapse collapse">
-									<div class="panel-body">
-										<strong>Teaching Area</strong><br>
-										- Surveying<br>
-										- LiDAR Technology<br>
-										- Photogrammetry<br>
-										- Remote Sensing<br>
-										- Thesis writing and presentation 
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+												<strong>National Ilan University, Yilan Taiwan</strong>
+											</a>
+										</h4>
 									</div>
-								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-											<strong>IIT Kanpur</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapseThree" class="panel-collapse collapse">
-									<div class="panel-body">
+									<div id="collapseTwo" class="panel-collapse collapse">
+										<div class="panel-body">
 											<strong>Teaching Area</strong><br>
-											- Surveying, <br>
-											- Remote Sensing,<br> 
-											- LiDAR/ laser scanning<br>
-											- Point cloud processing techniques, <br>
-											- GIS, <br>
-											- Image Processing, <br>
-											- Computational methods,<br>  
-											- Engineering Graphics, <br>
-											- Laser Technology 											
+											- Surveying<br>
+											- LiDAR Technology<br>
+											- Photogrammetry<br>
+											- Remote Sensing<br>
+											- Thesis writing and presentation 
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-											<strong>Department of Civil Engineering, I.T B.H.U, Varanasi</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapseFive" class="panel-collapse collapse">
-									<div class="panel-body">
-											<strong>Teaching Area</strong><br>
-											- Surveying, <br>
-											- Photogrammetry,<br> 
-											- Remote Sensing, <br>
-											- GIS, <br>
-											- GPS, <br>
-											- other Civil Engineering Subjects											
-										<br />
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+												<strong>IIT Kanpur</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapseThree" class="panel-collapse collapse">
+										<div class="panel-body">
+												<strong>Teaching Area</strong><br>
+												- Surveying, <br>
+												- Remote Sensing,<br> 
+												- LiDAR/ laser scanning<br>
+												- Point cloud processing techniques, <br>
+												- GIS, <br>
+												- Image Processing, <br>
+												- Computational methods,<br>  
+												- Engineering Graphics, <br>
+												- Laser Technology 											
+										</div>
 									</div>
 								</div>
-							</div>
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
+												<strong>Department of Civil Engineering, I.T B.H.U, Varanasi</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapseFive" class="panel-collapse collapse">
+										<div class="panel-body">
+												<strong>Teaching Area</strong><br>
+												- Surveying, <br>
+												- Photogrammetry,<br> 
+												- Remote Sensing, <br>
+												- GIS, <br>
+												- GPS, <br>
+												- other Civil Engineering Subjects											
+											<br />
+										</div>
+									</div>
+								</div>
 
 							<div class="faqHeader"><h4>Courses Taught</h4></div>
 							
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-											<strong>Courses taught at IIT Kanpur (2003 - till date)</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapseFour" class="panel-collapse collapse">
-									<div class="panel-body">
-										- CE-432A Geographical Information System<br>
-										- CE-371  Geoinformatics <br>
-										- More to be added...
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+												<strong>Courses taught at IIT Kanpur (2003 - till date)</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapseFour" class="panel-collapse collapse">
+										<div class="panel-body">
+											- CE-432A Geographical Information System<br>
+											- CE-371  Geoinformatics <br>
+											- More to be added...
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
-											<strong>Courses taught at IT-BHU Varanasi (1990-2002)</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapseSeven" class="panel-collapse collapse">
-									<div class="panel-body">
-										- CE-223  Surveying I  <br>
-										- CE-261  Surveying Practice I <br>
-										- More to be Added...
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+												<strong>Courses taught at IT-BHU Varanasi (1990-2002)</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapseSeven" class="panel-collapse collapse">
+										<div class="panel-body">
+											- CE-223  Surveying I  <br>
+											- CE-261  Surveying Practice I <br>
+											- More to be Added...
+										</div>
 									</div>
 								</div>
-							</div>
 
 							<div class="faqHeader"><h4>Industrial Experience/Interaction</h4></div>
 							
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedSix">
-											<strong>GMR group company Geokno India Pvt. Ltd. </strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapsedSix" class="panel-collapse collapse">
-									<div class="panel-body">
-										<strong>Director</strong><br>
-										Attending Board meetings and providing vision for further growth of company. 
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedSix">
+												<strong>GMR group company Geokno India Pvt. Ltd. </strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapsedSix" class="panel-collapse collapse">
+										<div class="panel-body">
+											<strong>Director</strong><br>
+											Attending Board meetings and providing vision for further growth of company. 
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedSeven">
-											<strong>Geokno India Pvt. Ltd. (An IITK incubate company)</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapsedSeven" class="panel-collapse collapse">
-									<div class="panel-body">
-											<strong>Chairman</strong><br>
-											- This company was founded by me along with others, under the <strong>Faculty Entrepreneurship Policy of IIT Kanpur.</strong>
-											The company developed knowledge products and services in the domain of Geospatial Technology, especially Laser Scanning.<br>
-											- In view of the innovative developments by company and the social impact made it was awarded the <strong>“Best Start up company in ICT in 2011” by ISBA.</strong>  <br>
-											- My work involved guiding the vision of company, providing technical knowhow and supervising projects. <br>
-											- Developed <strong> 4 products</strong> and <strong>completed 18 projects.</strong><br>
-											- Company successfully graduated in May 2012 with majority equity acquisition by GMR. 										
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedSeven">
+												<strong>Geokno India Pvt. Ltd. (An IITK incubate company)</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapsedSeven" class="panel-collapse collapse">
+										<div class="panel-body">
+												<strong>Chairman</strong><br>
+												- This company was founded by me along with others, under the <strong>Faculty Entrepreneurship Policy of IIT Kanpur.</strong>
+												The company developed knowledge products and services in the domain of Geospatial Technology, especially Laser Scanning.<br>
+												- In view of the innovative developments by company and the social impact made it was awarded the <strong>“Best Start up company in ICT in 2011” by ISBA.</strong>  <br>
+												- My work involved guiding the vision of company, providing technical knowhow and supervising projects. <br>
+												- Developed <strong> 4 products</strong> and <strong>completed 18 projects.</strong><br>
+												- Company successfully graduated in May 2012 with majority equity acquisition by GMR. 										
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedEight">
-											<strong>Genesys International Corporation</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapsedEight" class="panel-collapse collapse">
-									<div class="panel-body">
-										Advisory services to for laser mobile system.
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedEight">
+												<strong>Genesys International Corporation</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapsedEight" class="panel-collapse collapse">
+										<div class="panel-body">
+											Advisory services to for laser mobile system.
+										</div>
 									</div>
 								</div>
-							</div>
 							
 						</div>
 					</div>
@@ -614,233 +616,241 @@
 						<div class="panel-group" id="accordion">
 							<div class="faqHeader"><h4>Thesis (M.Tech. / Ph.D.) Supervision</h4></div>
 							
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNew">
-											<strong>Ph.D. thesis supervision at IIT Kanpur</strong>	
-										</a>
-									</h4>
-								</div>
-								<div id="collapseNew" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment 
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNew">
+												<strong>Ph.D. thesis supervision at IIT Kanpur</strong>	
+											</a>
+										</h4>
+									</div>
+									<div id="collapseNew" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment 
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNewOne">
-											<strong>M.Tech. thesis supervision at IIT Kanpur (Completed)</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapseNewOne" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment 
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNewOne">
+												<strong>M.Tech. thesis supervision at IIT Kanpur (Completed)</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapseNewOne" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment 
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedOne">
-											<strong>M.Tech. thesis supervision at IIT Kanpur (OnGoing)</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapsedOne" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment 
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedOne">
+												<strong>M.Tech. thesis supervision at IIT Kanpur (OnGoing)</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapsedOne" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment 
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedTwo">
-											<strong>M.Tech. thesis supervision at IT BHU (Completed)</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapsedTwo" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment 
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedTwo">
+												<strong>M.Tech. thesis supervision at IT BHU (Completed)</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapsedTwo" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment 
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedThree">
-											<strong>B.Tech. Project supervision at IIT Kanpur</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapsedThree" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment 
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedThree">
+												<strong>B.Tech. Project supervision at IIT Kanpur</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapsedThree" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment 
+										</div>
 									</div>
 								</div>
-							</div>
 
 							<div class="faqHeader"><h4>Sponsored Projects</h4></div>
 							
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNewTwo">
-											<strong>Sponsored Research projects at IIT Kanpur </strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapseNewTwo" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNewTwo">
+												<strong>Sponsored Research projects at IIT Kanpur </strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapseNewTwo" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNewThree">
-											<strong>Sponsored projects applied and expected this year</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapseNewThree" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNewThree">
+												<strong>Sponsored projects applied and expected this year</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapseNewThree" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedFour">
-											<strong>Sponsored projects at IT-BHU, Varanasi</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapsedFour" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedFour">
+												<strong>Sponsored projects at IT-BHU, Varanasi</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapsedFour" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment
+										</div>
 									</div>
 								</div>
-							</div>
 							
 							<div class="faqHeader"><h4>Consultancy</h4></div>
 							
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNewFour">
-											<strong>Consultancy projects at IIT Kanpur</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapseNewFour" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNewFour">
+												<strong>Consultancy projects at IIT Kanpur</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapseNewFour" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedFive">
-											<strong>Consultancy projects at IT BHU</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapsedFive" class="panel-collapse collapse">
-									<div class="panel-body">
-											- 3D laser imaging and LCS measurement<br>
-											- Technology for motion correction and error analysis in laser scanning<br>
-											- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
-											- As built mapping using terrestrial laser scanning of complex structures<br>
-											- Development of LiDAR simulator-airborne and spaceborne<br>
-											- GIS for optimized land consolidation<br>
-											- Landmark based next level of navigation under GIS environment
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedFive">
+												<strong>Consultancy projects at IT BHU</strong>
+											</a>
+										</h4>
+									</div>
+									<div id="collapsedFive" class="panel-collapse collapse">
+										<div class="panel-body">
+												- 3D laser imaging and LCS measurement<br>
+												- Technology for motion correction and error analysis in laser scanning<br>
+												- Propagation modelling using high resolution LiDAR data (flood, sound, GPS signal)<br>
+												- As built mapping using terrestrial laser scanning of complex structures<br>
+												- Development of LiDAR simulator-airborne and spaceborne<br>
+												- GIS for optimized land consolidation<br>
+												- Landmark based next level of navigation under GIS environment
+										</div>
 									</div>
 								</div>
-							</div>
 
-							<div class="faqHeader"><h4>Publications</h4></div>
-							
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-										<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedTen">
-											<strong>Publications and Books (till date)</strong>
-										</a>
-									</h4>
-								</div>
-								<div id="collapsedTen" class="panel-collapse collapse">
-									<div class="panel-body">
-										<embed src="assets/blohani_publications.pdf" width="500" height="300" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
-									</div>
-								</div>
-							</div>
-							
 						</div>
 					</div>
 					
+					<!-- Embedded Publications -->
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="title">
+									<h3><span style="color: rgb(22, 2, 95)">Publications</span></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title">
+								<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsedTen">
+									<strong>Publications and Books (till date)</strong>
+								</a>
+							</h4>
+						</div>
+						<div id="collapsedTen" class="panel-collapse collapse">
+							<div class="panel-body">
+								<embed src="https://docs.google.com/document/d/1gGBYZnCOxA15vwwQjKFa9MyTfWw11Hndofjh8ZlM9ko/edit?usp=sharing" width="100%" height="600" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+							</div>
+						</div>
+					</div>
+											
 				</div>
 			</div>
 		</section>
@@ -1317,45 +1327,45 @@
 				
 					<!-- Single Blog -->
 					<div class="col-sm-4">
-						<a href="myBlog.html">
+						<a href="blog.html">
 							<div class="single-blog">
 								<!-- Image -->
 								<img src="img/TLS_at_Bhitar.jpg" height="300" width="100%"/>
 								<!-- Post heading -->
-								<h4><a href="myBlog.html">Laser scanning of Archaeological Monuments/Sites</a></h4>
+								<h4><a href="blog.html">Laser scanning of Archaeological Monuments/Sites</a></h4>
 								<!-- Post Content -->
 								<p class="show-read-more">We are working with ASI for scanning and archiving the archaeological heritage. A recent example of this work is the first Hindu temple made by non-perishable material at Bhiaar Gaon. <a href="http://home.iitk.ac.in/~blohani/TLS_Arch/Bhitar_ppt.pdf">The process of data collection and model generation is briefly shown in the power point presentation</a>.  Currently, the final model is being readied as a shadow-less integrated mesh model.  Image texture is applied to the model using simultaneously taken photographs.  This model will be further improved using high resolution very close range photographs which capture the fine carving details.
 									The high resolution 3D model thus generated can facilitate replication of important heritage sites by constructing similar structures in the vicinity or elsewhere.  A visitor can first go to the simulated site before going to actual one.  The simulated site can also be made available through audio-visual approach in immersive environment.  This will reduce exposure of site (in terms of time of exposure and number of visitors) thus helping in conservation of the site. 
 									We would like to hear from interested people in this area for sharing the expertise and collaboration. </p>
-								<a href="myBlog.html">Read More>></a>
+								<a href="blog.html">Read More>></a>
 							</div>
 						</a>
 					</div>
 					
 					<!-- Single Blog -->
 					<div class="col-sm-4">
-						<a href="myBlog.html">
+						<a href="blog.html">
 							<div class="single-blog">
 								<iframe width="353" height="250" src="https://www.youtube.com/embed/WtGdRuSuaMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-								<h4><a href="myBlog.html">Laser scanning of Archaeological Monuments/Sites</a></h4>
+								<h4><a href="blog.html">Laser scanning of Archaeological Monuments/Sites</a></h4>
 								<p class="show-read-more">We are working with ASI for scanning and archiving the archaeological heritage. A recent example of this work is the first Hindu temple made by non-perishable material at Bhiaar Gaon. <a href="http://home.iitk.ac.in/~blohani/TLS_Arch/Bhitar_ppt.pdf">The process of data collection and model generation is briefly shown in the power point presentation</a>.  Currently, the final model is being readied as a shadow-less integrated mesh model.  Image texture is applied to the model using simultaneously taken photographs.  This model will be further improved using high resolution very close range photographs which capture the fine carving details.
 									The high resolution 3D model thus generated can facilitate replication of important heritage sites by constructing similar structures in the vicinity or elsewhere.  A visitor can first go to the simulated site before going to actual one.  The simulated site can also be made available through audio-visual approach in immersive environment.  This will reduce exposure of site (in terms of time of exposure and number of visitors) thus helping in conservation of the site. 
 									We would like to hear from interested people in this area for sharing the expertise and collaboration. </p>
-								<a href="myBlog.html">Read More>></a>
+								<a href="blog.html">Read More>></a>
 							</div>
 						</a>
 					</div>
 					
 					<!-- Single Blog -->
 					<div class="col-sm-4">
-						<a href="myBlog.html">
+						<a href="blog.html">
 							<div class="single-blog">
 								<img src="img/Tree_Final.gif" height="300" width="100%"/>
-								<h4><a href="myBlog.html">Laser scanning of Archaeological Monuments/Sites</a></h4>
+								<h4><a href="blog.html">Laser scanning of Archaeological Monuments/Sites</a></h4>
 								<p class="show-read-more">TLS is a revolutionary technology due the speed at which it can capture a large number of accurate measurements at high speed.
 									The bottlenecks faced in problem solving using the conventional technologies are eliminated. This is the reason that this technology is finding use in several areas.
 								</p>
-								<a href="myBlog.html">Read More>></a>
+								<a href="blog.html">Read More>></a>
 							</div>
 						</a>
 					</div>
@@ -1373,7 +1383,7 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="title">
-							<h3>Awards & <span>Recognition</span></h3>
+							<h3 style="color:aliceblue;">Awards & <span>Recognition</span></h3>
 						</div>
 					</div>
 				</div>
@@ -1382,54 +1392,13 @@
 			<div class="container">
 				<!-- First Row -->
 				<div class="row">
-		
-					<!-- Single Feature -->
-					<div class="col-sm-4">
-						<div class="single-feature wow fadeInLeft">
-							<div class="row">
-								<!-- Award Logo -->
-								<div class="col-md-2">
-									<div class="feature-icon">
-										<i class="fa fa-bitbucket"></i>
-									</div>
-								</div>
-								<!-- Award Details -->
-								<div class="col-md-10">
-									<div class="feature-text">
-										<h4>Elected Fellow</h4>
-										<p>Indian Society of Remote Sensing, 2015</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					
-					<!-- Single Feature-->
-					<div class="col-sm-4">
-						<div class="single-feature wow fadeInLeft">
-							<div class="row">
-								<div class="col-md-2">
-									<div class="feature-icon">
-										<i class="fa fa-apple "></i>
-									</div>
-								</div>
-								<div class="col-md-10">
-									<div class="feature-text">
-										<h4>Best Paper Publication Award 2015</h4>
-										<p>Indian Society of Remote Sensing for paper titled "Developing Basic Design & Mathematical Framework for a Mobile Mapping System – A Case Study Using Available Sensors" JISRS Vol. 42 (2), June 2014 pp 301-310</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					
 					<!-- Single Feature-->
 					<div class="col-sm-4">
 						<div class="single-feature wow fadeInRight">
 							<div class="row">
 								<div class="col-md-2">
 									<div class="feature-icon">
-										<i class="fa fa-automobile "></i>
+										<i class="fa fa-trophy "></i>
 									</div>
 								</div>
 								<div class="col-md-10">
@@ -1441,58 +1410,15 @@
 							</div>
 						</div>
 					</div>
-					
-				</div>
-				<!-- Second Row -->				
-				<div class="row">
-				
 					<!-- Single Feature-->
-					<div class="col-sm-4">
-						<div class="single-feature wow fadeInLeft">
-							<div class="row">
-								<div class="col-md-2">
-									<div class="feature-icon">
-										<i class="fa fa-bullhorn "></i>
-									</div>
-								</div>
-								<div class="col-md-10">
-									<div class="feature-text">
-										<h4>Best paper award at INCA Congress 2012</h4>
-										<p>Dehradun for paper “Flash LiDAR based surveillance system”.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- Single Feature-->
-					
-					<!-- Single Feature-->
-					<div class="col-sm-4">
-						<div class="single-feature wow fadeInLeft">
-							<div class="row">
-								<div class="col-md-2">
-									<div class="feature-icon">
-										<i class="fa fa-camera-retro"></i>
-									</div>
-								</div>
-								<div class="col-md-10">
-									<div class="feature-text">
-										<h4>Best ISBA Start up in ICT category</h4>
-										<p>in 2011 for Geokno India Pvt Ltd, being incubated at IIT Kanpur and founded and mentored by me.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- Single Feature-->
-					
+		
 					<!-- Single Feature-->
 					<div class="col-sm-4">
 						<div class="single-feature wow fadeInRight">
 							<div class="row">
 								<div class="col-md-2">
 									<div class="feature-icon">
-										<i class="fa fa-coffee "></i>
+										<i class="fa fa-trophy "></i>
 									</div>
 								</div>
 								<div class="col-md-10">
@@ -1506,8 +1432,28 @@
 					</div>
 					<!-- Single Feature-->
 
+					<!-- Single Feature-->
+					<div class="col-sm-4">
+						<div class="single-feature wow fadeInLeft">
+							<div class="row">
+								<div class="col-md-2">
+									<div class="feature-icon">
+										<i class="fa fa-trophy"></i>
+									</div>
+								</div>
+								<div class="col-md-10">
+									<div class="feature-text">
+										<h4>Best ISBA Start up in ICT category</h4>
+										<p>in 2011 for Geokno India Pvt Ltd, being incubated at IIT Kanpur and founded and mentored by me.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Single Feature-->			
 				</div>
 
+				<!-- Second Row -->				
 				<div class="row">
 					<!-- Single Feature-->
 					<div class="col-sm-4">
@@ -1515,13 +1461,13 @@
 							<div class="row">
 								<div class="col-md-2">
 									<div class="feature-icon">
-										<i class="fa fa-bitbucket"></i>
+										<i class="fa fa-file-text-o "></i>
 									</div>
 								</div>
 								<div class="col-md-10">
 									<div class="feature-text">
-										<h4>Best Poster Award at ISPRS conference</h4>
-										<p>On Optical 3D measurement techniques,  9 – 13 July 2007, ETH Zurich, Switzerland.</p>
+										<h4>Best Paper Publication Award 2015</h4>
+										<p>Indian Society of Remote Sensing for paper titled "Developing Basic Design & Mathematical Framework for a Mobile Mapping System – A Case Study Using Available Sensors" JISRS Vol. 42 (2), June 2014 pp 301-310</p>
 									</div>
 								</div>
 							</div>
@@ -1535,27 +1481,27 @@
 							<div class="row">
 								<div class="col-md-2">
 									<div class="feature-icon">
-										<i class="fa fa-apple "></i>
+										<i class="fa fa-envelope"></i>
 									</div>
 								</div>
 								<div class="col-md-10">
 									<div class="feature-text">
-										<h4>Poster rated in top TEN</h4>
-										<p>at AGIT/GI Forum 2007, 3-6 July 2007, Salzburg.</p>
+										<h4>letters of Appreciation</h4>
+										<p>Received multiple <strong>letters of appreciation from the Chairman, Senate, IIT Kanpur for extraordinary teaching</strong> on the basis of student feedback for courses CE371, CE671, CE676. </p>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 					<!-- Single Feature-->
-					
+
 					<!-- Single Feature-->
 					<div class="col-sm-4">
 						<div class="single-feature wow fadeInRight">
 							<div class="row">
 								<div class="col-md-2">
 									<div class="feature-icon">
-										<i class="fa fa-automobile "></i>
+										<i class="fa fa-file-text-o "></i>
 									</div>
 								</div>
 								<div class="col-md-10">
@@ -1568,38 +1514,59 @@
 						</div>
 					</div>
 					<!-- Single Feature-->
-						
 				</div>
-				
-				<div class="row">
-				
+
+				<!-- Third Row -->
+				<div class="row">				
+					<!-- Single Feature -->
+					<div class="col-sm-4">
+						<div class="single-feature wow fadeInLeft">
+							<div class="row">
+								<!-- Award Logo -->
+								<div class="col-md-2">
+									<div class="feature-icon">
+										<i class="fa fa-university"></i>
+									</div>
+								</div>
+								<!-- Award Details -->
+								<div class="col-md-10">
+									<div class="feature-text">
+										<h4>Elected Fellow</h4>
+										<p>Indian Society of Remote Sensing, 2015</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Single Feature -->
+
 					<!-- Single Feature-->
 					<div class="col-sm-4">
 						<div class="single-feature wow fadeInLeft">
 							<div class="row">
 								<div class="col-md-2">
 									<div class="feature-icon">
-										<i class="fa fa-bullhorn "></i>
+										<i class="fa fa-file-text-o "></i>
 									</div>
 								</div>
 								<div class="col-md-10">
 									<div class="feature-text">
-										<h4>Best Poster presentation</h4>
-										<p>Award at Map World Forum 2007 to paper 3D visualization of LiDAR data, Co-authored with Ghosh, S.</p>
+										<h4>Best paper award at INCA Congress 2012</h4>
+										<p>Dehradun for paper “Flash LiDAR based surveillance system”.</p>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 					<!-- Single Feature-->
-					
+
 					<!-- Single Feature-->
 					<div class="col-sm-4">
 						<div class="single-feature wow fadeInLeft">
 							<div class="row">
 								<div class="col-md-2">
 									<div class="feature-icon">
-										<i class="fa fa-camera-retro"></i>
+										<i class="fa fa-university"></i>
 									</div>
 								</div>
 								<div class="col-md-10">
@@ -1612,14 +1579,81 @@
 						</div>
 					</div>
 					<!-- Single Feature-->
-					
+
+				</div>
+				
+				<!-- Fourth Row -->
+				<div class="row">
+					<!-- Single Feature-->
+					<div class="col-sm-4">
+						<div class="single-feature wow fadeInLeft">
+							<div class="row">
+								<div class="col-md-2">
+									<div class="feature-icon">
+										<i class="fa fa-trophy "></i>
+									</div>
+								</div>
+								<div class="col-md-10">
+									<div class="feature-text">
+										<h4>Best Poster presentation</h4>
+										<p>Award at Map World Forum 2007 to paper 3D visualization of LiDAR data, Co-authored with Ghosh, S.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Single Feature-->
+
+					<!-- Single Feature-->
+					<div class="col-sm-4">
+						<div class="single-feature wow fadeInLeft">
+							<div class="row">
+								<div class="col-md-2">
+									<div class="feature-icon">
+										<i class="fa fa-certificate "></i>
+									</div>
+								</div>
+								<div class="col-md-10">
+									<div class="feature-text">
+										<h4>Poster rated in top TEN</h4>
+										<p>at AGIT/GI Forum 2007, 3-6 July 2007, Salzburg.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Single Feature-->
+
+					<!-- Single Feature-->
+					<div class="col-sm-4">
+						<div class="single-feature wow fadeInLeft">
+							<div class="row">
+								<div class="col-md-2">
+									<div class="feature-icon">
+										<i class="fa fa-trophy"></i>
+									</div>
+								</div>
+								<div class="col-md-10">
+									<div class="feature-text">
+										<h4>Best Poster Award at ISPRS conference</h4>
+										<p>On Optical 3D measurement techniques,  9 – 13 July 2007, ETH Zurich, Switzerland.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Single Feature-->
+				</div>
+
+				<!-- Fifth Row -->
+				<div class="row">
 					<!-- Single Feature-->
 					<div class="col-sm-4">
 						<div class="single-feature wow fadeInRight">
 							<div class="row">
 								<div class="col-md-2">
 									<div class="feature-icon">
-										<i class="fa fa-coffee "></i>
+										<i class="fa fa-graduation-cap "></i>
 									</div>
 								</div>
 								<div class="col-md-10">
@@ -1633,36 +1667,13 @@
 					</div>
 					<!-- Single Feature-->
 
-				</div>
-
-				<div class="row">
-					<!-- Single Feature-->
-					<div class="col-sm-4">
-							<div class="single-feature wow fadeInLeft">
-							<div class="row">
-								<div class="col-md-2">
-									<div class="feature-icon">
-										<i class="fa fa-bitbucket"></i>
-									</div>
-								</div>
-								<div class="col-md-10">
-									<div class="feature-text">
-										<h4>letters of Appreciation</h4>
-										<p>Received multiple <strong>letters of appreciation from the Chairman, Senate, IIT Kanpur for extraordinary teaching</strong> on the basis of student feedback for courses CE371, CE671, CE676. </p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- Single Feature-->
-					
 					<!-- Single Feature-->
 					<div class="col-sm-4">
 						<div class="single-feature wow fadeInLeft">
 							<div class="row">
 								<div class="col-md-2">
 									<div class="feature-icon">
-										<i class="fa fa-apple "></i>
+										<i class="fa fa-graduation-cap "></i>
 									</div>
 								</div>
 								<div class="col-md-10">
@@ -1676,7 +1687,9 @@
 					</div>
 					<!-- Single Feature-->
 				</div>
+
 			</div>
+			
 		</section>
 		<!-- AWARDS SECTION -->
 
@@ -1904,7 +1917,7 @@
 							<div class="single-footer">
 								<h5 style="margin-bottom: 10px;">QUICK LINKS</h5>
 								<ul class="projects">
-									<a href="myBlog.html"><li><img src="img/blog.jpeg"/></li></a>
+									<a href="blog.html"><li><img src="img/blog.jpeg"/></li></a>
 									<a href="https://iitk.ac.in/" target="_blank"><li><img src="img/iitk.png"/></li></a>
 									<a href="http://www.iitk.ac.in/civil/" target="_blank"><li><img src="img/civil.png"/></li></a>
 								</ul>
@@ -1985,8 +1998,7 @@
 					}
 				});
 			});
-		</script>
-		
+		</script>	
 		<script>
 			$(document).on('click','#myBtn',function(){
 				var myTargetModal = '#' + $(this).data('bid');
@@ -2001,8 +2013,7 @@
 				$('#myModal').hide();
 				$('.modal-content').hide();
 			});
-		</script>
-		
+		</script>		
 		<script src="js/custom.js"></script>
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>

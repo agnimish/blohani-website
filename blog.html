@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html class="no-js" style="scroll-behavior: smooth" lang="">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -50,7 +50,7 @@
 							<div class="navbar-collapse collapse">
 								<ul class="nav navbar-nav navbar-right">
 									<li><a href="index.php">Home</a></li>
-									<li><a href="myBlog.html">Blog</a></li>
+									<li><a href="blog.html">Blog</a></li>
 								</ul>
 							</div>
 							<a id="back2Top" title="Back to top" href="#">&#10148;</a>
@@ -59,7 +59,7 @@
 				</div>
 			</div>
 			<!-- Main Menu End -->
-		
+
 		</header>
 		<!-- Header End -->
 		
@@ -69,6 +69,7 @@
 				<div class="row">
 					<!-- Posts -->
 					<div class="col-md-8">
+
 						<div class="single-blog" id="one">
 							<a href="#"><h3>GEOKNO INDIA PVT LTD</h3></a>
 							<video width="100%" height="450" controls>
@@ -146,8 +147,13 @@
 									<input class="form-control" type="text" placeholder="Search..">
 								</form>
 							</div> -->
+							
 							<div class="widget">
 								<h5 class="widgetheading">Categories</h5>
+								<!-- Dynamic Progress Bar -->
+								<div class="scrolling-container">
+									<div class="scrolling-bar" id="myBar"></div>
+								</div>
 								<ul class="cat">
 									<li><i class="icon-angle-right"></i><a href="#one">GeoKno</a></li>
 									<li><i class="icon-angle-right"></i><a href="#two">How LIDAR Works</li>
@@ -233,7 +239,7 @@
 							<div class="single-footer">
 								<h5 style="margin-bottom: 10px;">QUICK LINKS</h5>
 								<ul class="projects">
-									<a href="myBlog.html"><li><img src="img/blog.jpeg"/></li></a>
+									<a href="blog.html"><li><img src="img/blog.jpeg"/></li></a>
 									<a href="https://iitk.ac.in/" target="_blank"><li><img src="img/iitk.png"/></li></a>
 									<a href="http://www.iitk.ac.in/civil/" target="_blank"><li><img src="img/civil.png"/></li></a>
 								</ul>
@@ -312,6 +318,17 @@
 
 			});
 			/*Scroll to top when arrow up clicked END*/
+		</script>
+		<script>
+			// When the user scrolls the page, execute myFunction 
+			window.onscroll = function() {myFunction()};
+
+			function myFunction() {
+				var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+				var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+				var scrolled = (winScroll / height) * 100;
+				document.getElementById("myBar").style.width = scrolled + "%";
+			}
 		</script>
     </body>
 </html>
