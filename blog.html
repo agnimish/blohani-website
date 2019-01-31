@@ -80,7 +80,7 @@
 								<ul>
 									<li><a href="">Date: June 05, 2016</a></li>
 									<li><a href="">Author Name</a></li>
-									<li><a href="">Category</a></li>
+									<li><a href="">GeoKno</a></li>
 								</ul>								
 								<div class="read-more pull-right">
 									<a href="#" class="btn btn-readmore">Continue Reading</a>
@@ -128,6 +128,8 @@
 							
 						</div>
 						
+						<div id="disqus_thread"></div>
+
 						<!-- Pagination -->
 						<!-- <div id="pagination">
 							<span class="all">Page 1 of 3</span>
@@ -298,7 +300,42 @@
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
             ga('create','UA-XXXXX-X','auto');ga('send','pageview');
 		</script>
-		
+		<script>
+				/**
+				 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
+				 *  THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR 
+				 *  PLATFORM OR CMS.
+				 *  
+				 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: 
+				 *  https://disqus.com/admin/universalcode/#configuration-variables
+				 */
+				/*
+				var disqus_config = function () {
+					// Replace PAGE_URL with your page's canonical URL variable
+					this.page.url = PAGE_URL;  
+					
+					// Replace PAGE_IDENTIFIER with your page's unique identifier variable
+					this.page.identifier = PAGE_IDENTIFIER; 
+				};
+				*/
+				
+				(function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+					var d = document, s = d.createElement('script');
+					
+					// IMPORTANT: Replace EXAMPLE with your forum shortname!
+					s.src = 'https://blohani.disqus.com/embed.js';
+					
+					s.setAttribute('data-timestamp', +new Date());
+					(d.head || d.body).appendChild(s);
+				})();
+			</script>
+			<noscript>
+				Please enable JavaScript to view the 
+				<a href="https://disqus.com/?ref_noscript" rel="nofollow">
+					comments powered by Disqus.
+				</a>
+			</noscript>
+			<script id="dsq-count-scr" src="//blohani.disqus.com/count.js" async></script>
 		<script>
 			/*Scroll to top when arrow up clicked BEGIN*/
 			$(window).scroll(function() {
@@ -322,7 +359,6 @@
 		<script>
 			// When the user scrolls the page, execute myFunction 
 			window.onscroll = function() {myFunction()};
-
 			function myFunction() {
 				var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
 				var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;

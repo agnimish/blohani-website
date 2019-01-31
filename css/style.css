@@ -612,7 +612,6 @@ ul.projects li {
 .panel.price:hover>.panel-heading{
 	box-shadow: 0px 0px 30px rgba(0,0,0, .2) inset;
 }
-
 		
 .panel.price>.panel-heading{
 	box-shadow: 0px 5px 0px rgba(50,50,50, .2) inset;
@@ -637,7 +636,9 @@ ul.projects li {
 	background-color:  rgba(0,0,0, .1);
 	box-shadow: 0px 3px 0px rgba(0,0,0, .3);
 }
-
+.price:hover>.panel-footer{
+	box-shadow: 0px 0px 30px rgba(0,0,0, .2) inset;
+}
 
 .panel.price .btn{
 	box-shadow: 0 -1px 0px rgba(50,50,50, .2) inset;
@@ -1155,7 +1156,19 @@ form#commentform textarea {
 #myBtn {
 	background-color: Transparent;
 	border: none;
-    cursor:pointer;
+	cursor:pointer;
+}
+#myBtn:hover {
+	text-shadow: 0.5px 0.5px #000;
+}
+
+.feedback{
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+}
+.feedback:hover {
+	text-shadow:  0.5px 0.5px #07a7bb;
 }
 /* The Modal (background) */
 .modal {

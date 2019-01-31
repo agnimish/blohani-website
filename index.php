@@ -1219,14 +1219,15 @@
 						<!-- Software Card -->
 						<div class="panel price panel-green">
 							<div class="panel-heading arrow_box text-center">
-							<h3>LIMULATOR</h3>
+							<h3 style="font-size:28px;">LIMULATOR</h3>
 							</div>
-							<div class="panel-body text-center">
+							<!-- <div class="panel-body text-center">
 								<p class="lead" style="font-size:30px"><strong>Category</strong></p>
-							</div>
+							</div> -->
 							<ul class="list-group list-group-flush text-center">
 								<li class="list-group-item"><i class="icon-ok text-success"></i> AIRBORNE ALTIMETRIC LIDAR SIMULATOR</li>
 								<li class="list-group-item"><i class="icon-ok text-success"></i> Developer: ABC</li>
+								<button class="feedback"><li class="list-group-item"><i class="icon-ok text-success"></i> FEEDBACK</li></button>
 							</ul>
 							<div class="panel-footer">
 								<a class="btn btn-lg btn-block btn-success" href="https://home.iitk.ac.in/~blohani/download/Limulator.zip">DOWNLOAD</a>
@@ -1240,22 +1241,22 @@
 						<!-- PRICE ITEM -->
 						<div class="panel price panel-green">
 							<div class="panel-heading arrow_box text-center">
-							<h3>LASUTILITY </h3>
+							<h3 style="font-size:28px;">LASUTILITY </h3>
 							</div>
-							<div class="panel-body text-center">
+							<!-- <div class="panel-body text-center">
 								<p class="lead" style="font-size:30px"><strong>Category</strong></p>
-							</div>
+							</div> -->
 							<ul class="list-group list-group-flush text-center">
 								<li class="list-group-item"><i class="icon-ok text-success"></i>Provides a range of utilities to work with LiDAR LAS format files</li>
 								<li class="list-group-item"><i class="icon-ok text-success"></i> Developer: XYZ</li>
+								<button class="feedback"><li class="list-group-item"><i class="icon-ok text-success"></i> FEEDBACK</li></button>
 							</ul>
 							<div class="panel-footer">
 								<a class="btn btn-lg btn-block btn-success" href="#">DOWNLOAD</a>
 							</div>
 						</div>
 						<!-- /PRICE ITEM -->
-						
-						
+									
 					</div>
 					
 					<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
@@ -1263,17 +1264,18 @@
 						<!-- PRICE ITEM -->
 						<div class="panel price panel-green">
 							<div class="panel-heading arrow_box text-center">
-							<h3>LIMULATOR 4.0</h3>
+							<h3 style="font-size:28px;">LIMULATOR 4.0</h3>
 							</div>
-							<div class="panel-body text-center">
+							<!-- <div class="panel-body text-center">
 								<p class="lead" style="font-size:30px"><strong>Category</strong></p>
-							</div>
+							</div> -->
 							<ul class="list-group list-group-flush text-center">
-								<button id="myBtn" data-bid="17"><li class="list-group-item"><i class="icon-ok text-success"></i>Description</li></button>
+								<button id="myBtn" data-bid="17">
+								<li class="list-group-item"><i class="icon-ok text-success"></i>Aims at generating airborne LiDAR...</li></button>
 								<li class="list-group-item"><i class="icon-ok text-success"></i>
 									Developer: <a href="https://www.facebook.com/shikhar.dayal.96?jazoest=26510012284484581108758688107829911668566597113521146555731091029948115995212169111856567951119010757101112655865100121841105268881105487104112455695109697797103103841048210077838785981196810990881181027610089897412011381" target="_blank">
-									Shikhar Dayal</a>
-								</li>
+									Shikhar Dayal</a></li>
+									<button class="feedback"><li class="list-group-item"><i class="icon-ok text-success"></i>FEEDBACK</li></button>
 							</ul>
 							<div class="panel-footer">
 								<a class="btn btn-lg btn-block btn-success" href="./assets/Limulator4.zip">DOWNLOAD</a>
@@ -1288,21 +1290,22 @@
 						<!-- PRICE ITEM -->
 						<div class="panel price panel-grey">
 							<div class="panel-heading arrow_box text-center">
-							<h3>Upcoming</h3>
+							<h3  style="font-size:28px;">Upcoming</h3>
 							</div>
-							<div class="panel-body text-center">
+							<!-- <div class="panel-body text-center">
 								<p class="lead" style="font-size:30px"><strong>Category</strong></p>
-							</div>
+							</div> -->
 							<ul class="list-group list-group-flush text-center">
-								<li class="list-group-item"><i class="icon-ok text-success"></i> Description</li>
+								<li class="list-group-item"><i class="icon-ok text-success"></i> Software <br>Description</li>
+								<li class="list-group-item"><i class="icon-ok text-success"></i> Developer: XYZ</li>
+								<button class="feedback"><li class="list-group-item"><i class="icon-ok text-success"></i> FEEDBACK</li></button>
 							</ul>
 							<div class="panel-footer">
 								<a class="btn btn-lg btn-block btn-primary" href="#">DOWNLOAD</a>
 							</div>
 						</div>
 						<!-- /PRICE ITEM -->
-						
-						
+
 					</div>
 				
 				</div>
