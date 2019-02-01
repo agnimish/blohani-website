@@ -128,7 +128,7 @@
 						<div class="item active">
 							<img src="img/city.jpg" alt="Sider Big Image">
 							<div class="carousel-caption">
-								<h1 class="wow fadeInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit<?=$thankYou ?></h1>
+								<h1 class="wow fadeInLeft">In any given moment we have two options: to step forward into growth or back into safety.</h1>
 								<div class="slider-btn wow fadeIn">
 									<a href="#" class="btn btn-learn">Learn More</a>
 								</div>
@@ -138,7 +138,7 @@
 						<div class="item">
 							<img src="img/geoinfo.jpg" alt="Sider Big Image">
 							<div class="carousel-caption">
-								<h1 class="wow fadeInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1>
+								<h1 class="wow fadeInLeft">The joy of engineering is to find a straight line on a double logarithmic diagram</h1>
 								<div class="slider-btn wow fadeIn">
 									<a href="#" class="btn btn-learn">Learn More</a>
 								</div>
@@ -1733,13 +1733,13 @@
 									<div class="single-testimonials">
 										<!-- Content -->
 										<div class="text">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+											<p>People influence people. Nothing influences people more than a recommendation from a trusted friend. A trusted referral influences people more than the best broadcast message. A trusted referral is the Holy Grail of advertising.</p>
 										</div>
 										<!-- Client Details -->
 										<div class="profile-image">
 											<img src="img/client.jpg" alt="Author Image" />
-											<h4>John Doe</h4>
-											<p>Marketing Manager</p>
+											<h4>Mark Zuckerberg</h4>
+											<p>CEO Facebook</p>
 										</div>
 									</div>
 								</div>
@@ -1747,13 +1747,13 @@
 								<div class="col-sm-6">
 									<div class="single-testimonials">
 										<div class="text">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+											<p>People influence people. Nothing influences people more than a recommendation from a trusted friend. A trusted referral influences people more than the best broadcast message. A trusted referral is the Holy Grail of advertising.</p></p>
 										</div>
 										
 										<div class="profile-image">
 											<img src="img/client.jpg" alt="Author Image" />
-											<h4>John Doe</h4>
-											<p>Marketing Manager</p>
+											<h4>Mark Zuckerberg</h4>
+											<p>CEO Facebook</p>
 										</div>
 										
 									</div>
