@@ -116,16 +116,16 @@
 			<!-- Sider End -->
 
 			<!-- TOP SLIDERS SECTION -->
-			<div class="slider">
+			<!-- <div class="slider">
 				<div id="fawesome-carousel" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators indicatior2">
 						<li data-target="#fawesome-carousel" data-slide-to="0" class="active"></li>
 						<li data-target="#fawesome-carousel" data-slide-to="1"></li>
 					</ol>
 				 
-					<div class="carousel-inner" role="listbox" style="height:500px; width:auto;">
+					<div class="carousel-inner" role="listbox" style="height:500px; width:auto;"> -->
 						<!-- First Active Slider -->
-						<div class="item active">
+						<!-- <div class="item active">
 							<img src="img/city.jpg" alt="Sider Big Image">
 							<div class="carousel-caption">
 								<h1 class="wow fadeInLeft">In any given moment we have two options: to step forward into growth or back into safety.</h1>
@@ -133,9 +133,9 @@
 									<a href="#" class="btn btn-learn">Learn More</a>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<!-- Next Slider -->
-						<div class="item">
+						<!-- <div class="item">
 							<img src="img/geoinfo.jpg" alt="Sider Big Image">
 							<div class="carousel-caption">
 								<h1 class="wow fadeInLeft">The joy of engineering is to find a straight line on a double logarithmic diagram</h1>
@@ -146,11 +146,10 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<!-- TOP SLIDERS SECTION -->
 		</header>
 		<!-- Header End -->
-		
 		
 		<!-- ABOUT SECTION -->
 		<section id="about" class="site-padding">
@@ -442,12 +441,12 @@
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<h4 class="panel-title">
-											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">
+											<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen">
 												<strong>Lecture and Sr. Lecture | IT-BHU</strong>
 											</a>
 										</h4>
 									</div>
-									<div id="collapseEleven" class="panel-collapse collapse">
+									<div id="collapseThirteen" class="panel-collapse collapse">
 										<div class="panel-body">
 												<strong>Research Area</strong>
 												DEM and Image Processing 
@@ -1838,7 +1837,7 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<h4 style="color:aqua;">Please Contact Me For Any Kind Of Information Over a Cup of Tea</strong></h4>
-							<form id="contactform" action="mailto:nimishagarwal.1997@gmail.com" method="post" enctype="text/plain">
+							<form id="contactform" action="mailto:nimishagarwal.1997@gmail.com" method="post" enctype="text/plain" target="_blank`	">
 								<!-- Input Fields -->
 								<div class="row">
 									<!-- Name Field -->
@@ -1865,7 +1864,7 @@
 										<div class="validation">
 										</div>
 										<p>
-											<button class="btn btn-theme margintop10 pull-left" type="submit" name="submit">Submit message</button>
+											<button class="btn btn-theme margintop10 pull-left" type="submit">Submit message</button>
 										</p>
 									</div>
 								</div>
